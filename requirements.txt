@@ -51,6 +51,4 @@ webdriver-manager==3.3.0
 websocket-client==1.8.0
 wsproto==1.2.0
 
-pip~=25.0.1
-setuptools~=75.8.2
-imap-tools~=1.10.0
+pip==25.0.1
